@@ -39,5 +39,9 @@ Hey, wanna jump in and make this even cooler? I'm all ears! Here's how you can c
 5. Send in a pull request.
 
 
+![image](https://github.com/user-attachments/assets/dd418fae-0be4-4e59-b362-d32b9e7dfab5)
+
+
+
 
 Feel free to spice it up even more to match your project's vibe! If you have any questions or just wanna chat about cool projects, hit me up!
